@@ -4,7 +4,7 @@
 
     font-style: normal;
     font-variation-settings:
-      "slnt" 0;
+        "slnt" 0;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -75,14 +75,14 @@ nav li {
 }
 
 nav li a {
-    
+
     color: white;
     text-decoration: none;
 }
 
 nav li {
 
-   
+
 
     transition: all 0.3s ease-in-out;
     border-radius: 10px;
@@ -90,11 +90,11 @@ nav li {
 }
 
 nav li a:hover {
- 
 
-    background-color:  rgba(0, 0, 0, 0.06);
+
+    background-color: rgba(0, 0, 0, 0.06);
     ;
-    border-bottom:  3px solid rgba(0, 0, 0, 0.3);
+    border-bottom: 3px solid rgba(0, 0, 0, 0.3);
 
 
 }
